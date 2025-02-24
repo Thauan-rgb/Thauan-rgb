@@ -15,6 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thauan-rgb&show_icons=true&locale=en" alt="thauan-rgb" /></p>
 
 
-![one piece](https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif)
+![image](https://github.com/user-attachments/assets/02451117-45a7-45c4-8715-aa56c651266d)
 
 
