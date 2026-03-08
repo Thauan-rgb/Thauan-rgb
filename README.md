@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My name is Thauan Bezerra</h1>
-<h3 align="center">A Passionate Web Developer from Brazil</h3>
+<h1 align="center">Olá 👋, Meu nome é Thauan Bezerra</h1>
+<h3 align="center">Um desenvolvedor web brasileiro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thauan-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="thauan-rgb" /> </p>
 
