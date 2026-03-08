@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/CSS-%23264de4?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/BOOTSTRAP-%237e13f8?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/NODE.JS-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-%233e7cad?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLASK-%233BABC3?style=for-the-badge&logo=flask&logoColor=white"/>
