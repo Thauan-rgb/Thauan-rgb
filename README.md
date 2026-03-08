@@ -15,18 +15,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-%23264de4?style=for-the-badge&logo=css&logoColor=white"/>  
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-%237e13f8?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="node.js" src="https://img.shields.io/badge/NODE.JS-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-%233e7cad?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="flask" src="https://img.shields.io/badge/FLASK-%233BABC3?style=for-the-badge&logo=flask&logoColor=white"/> 
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="center" alt="figma" src="https://img.shields.io/badge/FIGMA-%23A259FE?style=for-the-badge&logo=figma&logoColor=white"/>
-</div><br/>
+<div>
+<img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-%23264de4?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-%237e13f8?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/NODE.JS-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-%233e7cad?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLASK-%233BABC3?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+<br>
+
+<div>
+<img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-%23A259FE?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
 
 
 
