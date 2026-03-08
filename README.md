@@ -26,9 +26,7 @@
 <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<br>
-
-<div>
+<div style="margin-top:6px;">
 <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-%23A259FE?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
